@@ -1,6 +1,6 @@
 import React from 'react';
 
-const PlayAgain = (props) => (
+const PlayAgainButton = (props) => (
   <div className="game-done">
     <div
       className="message"
@@ -12,4 +12,4 @@ const PlayAgain = (props) => (
   </div>
 );
 
-export default PlayAgain;
+export default PlayAgainButton;
